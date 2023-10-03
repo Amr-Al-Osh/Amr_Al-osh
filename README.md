@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amr Alosh</h1>
 <h3 align="center">Full-Stack Web Developer | ASP.NET Enthusiast from Jordan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amr-al-osh" alt="amr-al-osh" /></a> </p>
+<p align="left"> <a href="https://github.com/Amr-Al-Osh/Amr_Al-osh"><img src="https://github-profile-trophy.vercel.app/?username=amr-al-osh" alt="amr-al-osh" /></a> </p>
 
 - 🔭 I’m currently working on **HR System**
 
